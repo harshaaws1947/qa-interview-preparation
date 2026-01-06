@@ -237,8 +237,3 @@ Feel free to contribute by:
 This project is licensed under the MIT License.
 
 ---
-
-<p align="center">
-  <b>Good luck with your interviews!</b><br>
-  <i>Preparation + Practice = Success</i>
-</p>
